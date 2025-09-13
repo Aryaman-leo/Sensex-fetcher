@@ -175,12 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [yfinance](https://github.com/ranaroussi/yfinance) for the Python wrapper
 - The open-source community for the amazing tools and libraries
 
-## 📞 Contact
 
-**Your Name** - [@yourusername](https://github.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/sensex-fetcher](https://github.com/yourusername/sensex-fetcher)
-
----
 
 ⭐ **Star this repository if you found it helpful!**
